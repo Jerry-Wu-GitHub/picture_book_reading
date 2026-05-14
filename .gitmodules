@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://www.modelscope.cn/studios/JerryWuModelScope/picture_book_reading_server.git
