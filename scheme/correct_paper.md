@@ -90,4 +90,4 @@ for image_path in image_paths:
 
 ## 提交方式
 
-创建一个 GitHub 仓库，提交代码，README 里写清楚运行耗时、调用方式等。把仓库链接发群里。
+自己创建一个 GitHub 仓库，README 里写清楚运行耗时、效果图、调用方式等。把仓库链接发群里。
